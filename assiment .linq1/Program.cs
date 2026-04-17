@@ -133,6 +133,7 @@ namespace assiment_.linq1
             #region qution7
             //var ras = p.Select(x => x.ProductName);
             //int z = 1;
+
             //foreach (var r in ras)
             //{
             //    Console.WriteLine($"{z}:{r}");
