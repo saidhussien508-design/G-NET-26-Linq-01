@@ -15,6 +15,7 @@ namespace assiment_.linq1
             #region qution1
 
 
+
             //var res= p.Where(s => s.ProductName == "Seafood");
             // foreach (var item in res)
             // {
@@ -54,6 +55,8 @@ namespace assiment_.linq1
             //}
             #endregion
             #region qution2
+
+
             //var ras=p.Select(x=>x.ProductName);
             //foreach(var r in ras)
             //{
@@ -70,6 +73,7 @@ namespace assiment_.linq1
             #region qution3
             //var ras = p.OrderBy(s=>s.UnitPrice);
 
+
             //foreach(var r in ras)
             //{
             //    Console.WriteLine($"name={r.ProductName} price={r.UnitPrice}");
@@ -84,6 +88,7 @@ namespace assiment_.linq1
             //}
             #endregion
             #region qution4
+
             //var ras = p.Where(s => s.UnitPrice > 10 && s.UnitPrice < 30);
             ////foreach (var r in ras)
             ////{
@@ -99,6 +104,7 @@ namespace assiment_.linq1
             //}
             #endregion
             #region qution5
+
             //var ras = p.Where(s => s.UnitsInStock >0 && s.Category== "Condiments");
             //foreach (var r in ras)
             //{
@@ -114,6 +120,7 @@ namespace assiment_.linq1
             //}
             #endregion
             #region qution6
+
             //var ras = p.Select(s => new { name = s.ProductName, price = s.UnitPrice, stockstatus = s.UnitsInStock > 0 ? "Available" :
             //    "Out of Stock" }) ;
 
@@ -127,6 +134,7 @@ namespace assiment_.linq1
             #region qution7
             //var ras = p.Select(x => x.ProductName);
             //int z = 1;
+
             //foreach (var r in ras)
             //{
             //    Console.WriteLine($"{z}:{r}");
@@ -135,6 +143,7 @@ namespace assiment_.linq1
 
             #endregion
             #region qution8
+
             //var ras = p.OrderBy(x => x.Category).ThenByDescending(x => x.UnitPrice);
             //foreach(var item in ras)
             //{
@@ -142,6 +151,7 @@ namespace assiment_.linq1
             //}
             #endregion
             #region qution9
+
             //var res = p.Where(x => x.Category == "Beverages").OrderByDescending(x => x.UnitsInStock);
             //foreach(var x in res)
             //{
