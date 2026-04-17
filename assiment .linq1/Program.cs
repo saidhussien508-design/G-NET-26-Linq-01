@@ -103,6 +103,7 @@ namespace assiment_.linq1
             //}
             #endregion
             #region qution5
+
             //var ras = p.Where(s => s.UnitsInStock >0 && s.Category== "Condiments");
             //foreach (var r in ras)
             //{
