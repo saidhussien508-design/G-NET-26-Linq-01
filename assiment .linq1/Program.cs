@@ -15,6 +15,7 @@ namespace assiment_.linq1
             #region qution1
 
 
+
             //var res= p.Where(s => s.ProductName == "Seafood");
             // foreach (var item in res)
             // {
