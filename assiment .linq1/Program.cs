@@ -56,6 +56,7 @@ namespace assiment_.linq1
             #endregion
             #region qution2
 
+
             //var ras=p.Select(x=>x.ProductName);
             //foreach(var r in ras)
             //{
