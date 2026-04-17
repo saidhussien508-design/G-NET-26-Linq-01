@@ -55,6 +55,7 @@ namespace assiment_.linq1
             //}
             #endregion
             #region qution2
+
             //var ras=p.Select(x=>x.ProductName);
             //foreach(var r in ras)
             //{
@@ -70,6 +71,7 @@ namespace assiment_.linq1
             #endregion
             #region qution3
             //var ras = p.OrderBy(s=>s.UnitPrice);
+
 
             //foreach(var r in ras)
             //{
