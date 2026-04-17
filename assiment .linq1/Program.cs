@@ -142,6 +142,7 @@ namespace assiment_.linq1
 
             #endregion
             #region qution8
+
             //var ras = p.OrderBy(x => x.Category).ThenByDescending(x => x.UnitPrice);
             //foreach(var item in ras)
             //{
