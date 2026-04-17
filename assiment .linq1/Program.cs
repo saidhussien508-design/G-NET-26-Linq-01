@@ -119,6 +119,7 @@ namespace assiment_.linq1
             //}
             #endregion
             #region qution6
+
             //var ras = p.Select(s => new { name = s.ProductName, price = s.UnitPrice, stockstatus = s.UnitsInStock > 0 ? "Available" :
             //    "Out of Stock" }) ;
 
