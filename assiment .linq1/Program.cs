@@ -87,6 +87,7 @@ namespace assiment_.linq1
             //}
             #endregion
             #region qution4
+
             //var ras = p.Where(s => s.UnitPrice > 10 && s.UnitPrice < 30);
             ////foreach (var r in ras)
             ////{
