@@ -150,6 +150,7 @@ namespace assiment_.linq1
             //}
             #endregion
             #region qution9
+
             //var res = p.Where(x => x.Category == "Beverages").OrderByDescending(x => x.UnitsInStock);
             //foreach(var x in res)
             //{
